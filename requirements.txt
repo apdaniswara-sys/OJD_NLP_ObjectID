@@ -1,0 +1,14 @@
+nltk
+spacy
+transformers
+sentencepiece
+opencv-python
+torch
+torchvision
+ultralytics
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+tqdm
