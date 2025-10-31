@@ -66,3 +66,4 @@ while True:
 # 🔚 Bersihkan resource
 cap.release()
 cv2.destroyAllWindows()
+
